@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mineflayer": "^4.11.0",
+    "mineflayer-navigate": "^0.0.10",
+    "mineflayer-pathfinder": "^2.4.4",
+    "prismarine-world": "^3.6.2"
+  }
+}
