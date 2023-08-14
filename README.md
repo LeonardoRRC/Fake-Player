@@ -35,6 +35,7 @@ bot.once('spawn', () => {
 
 4. En la terminal, estando en el directorio del proyecto, instala las dependencias con:
 ```bash
+npm i
 npm install mineflayer
 ```
 
