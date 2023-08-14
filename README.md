@@ -30,8 +30,6 @@ bot.once('spawn', () => {
     '/time set day',
     '/weather clear'
   ];
-
-  // ... Resto del código ...
 });
 ```
 
